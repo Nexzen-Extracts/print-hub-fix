@@ -1,0 +1,335 @@
+.custom-cont {
+    max-width: 1500px;
+}
+.optech-breadcrumb {
+    padding: 65px 0px 65px;
+    background: #e6e6e6;
+}
+.breadcrumbs .fa {
+    color: #0859d1;
+    font-size: 15px;
+}
+.post__title {
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: #0859d1;
+    text-align: center;
+    font-weight: 700;
+}
+.breadcrumbs ul {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+    align-items: center;
+    align-content: center;
+}
+.breadcrumbs ul li:first-child {
+    padding-left: 0;
+}
+.breadcrumbs .fa {
+    color: #0859d1;
+    font-size: 15px;
+}
+.breadcrumbs ul li {
+    line-height: 9px;
+    z-index: 0;
+    font-size: 15px;
+    padding: 0 11px;
+    position: relative;
+    display: inline-block;
+    color: #202121;
+}
+.breadcrumbs ul li a {
+    color: #0859d1;
+    text-decoration: none;
+}
+.rs-services-single .services-title .title {
+    font-size: 28px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #080808;
+}
+.rs-services-single .services-title .title {
+    font-size: 28px;
+    line-height: 46px;
+    font-weight: 700;
+    color: #0a0a0a;
+}
+/* .para_graph {
+    font-size: 15px;
+    font-weight: 400;
+    color: #696767;
+    text-align: justify;
+} */
+.why_choose {
+    margin: 15px 0px;
+}
+.why_hdd {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #0859d1;
+    font-size: 26px;
+}
+.services-page__single {
+    position: relative;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    border-top: 2px solid #daedf9;
+    background-color: #ffffffe1;
+    box-shadow: 0px 1px 2px 0px rgb(16 24 40 / 34%);
+    padding: 30px 15px;
+    z-index: 1;
+    height: 100%;
+    align-content: center;
+}
+.services-page__text {
+    font-size: 16px;
+    line-height: 28px;
+}
+.rs-services-single .services-add {
+    background-color: #0859d1;
+    position: relative;
+    padding: 20px;
+    border-radius: 15px;
+    /* text-align: center; */
+    /* margin-left: 25px; */
+}
+.address-wrap {
+    color: white;
+}
+.quick_call {
+    text-align: center;
+    font-size: 24px;
+    color: #ffe38c;
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+.contact_serv {
+    padding: 10px;
+    margin: 0px 0px;
+    text-align: center;
+}
+.carousel-wrap {
+    margin: 10px auto;
+    padding: 0 5%;
+}
+.item {
+    padding: 18px;
+    margin: 0px 2px;
+    border: 1px solid #a7a7a7;
+    border-radius: 10px;
+    cursor: pointer;
+    overflow: hidden;
+    background: aliceblue;
+}
+.care_ssc {
+    text-align: center;
+    margin-bottom: 24px;
+}
+.item_texxt {
+    font-size: 16px;
+    text-align: center;
+    color: #0859d1;
+    margin-top: 15px;
+}
+.title-tt{
+    font-size: 25px;
+}
+.item img{
+    width: 64px!important;
+    margin: auto;
+}
+.title {
+    margin-bottom: 24px;
+    text-align: center;
+
+    color: #ffe38c;
+    font-size: 25px;
+}
+
+.side_para {
+    font-size: 14px;
+    text-align: center;
+}
+.contact_serv a {
+    font-size: 20px;
+    color: #0859d1;
+    font-weight: 800;
+    border: 1px dashed #0859d1;
+    padding: 10px 40px;
+    border-radius: 9px;
+    background: white;
+}
+.chat_serv a {
+    font-size: 20px;
+    color: #0859d1;
+    font-weight: 800;
+    border: 2px solid #ffffff;
+    padding: 10px 40px;
+    border-radius: 9px;
+    background: #ffe38c;
+}
+.chat_serv {
+    padding: 10px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.services-img img {
+ border-radius: 10px;
+}
+.quick_call a {
+    font-weight: 800;
+    color: #ffe38c;
+}
+.servic_what{
+    padding: 60px 0px;
+}
+.last_ssc {
+    padding: 0 5%;
+}
+.last_ssc p {
+    font-size: 16px;
+    line-height: 33px;
+    text-align: center;
+    color: #6d6d6d;
+}
+
+
+
+.sotcox-card-wrapper {
+    background: #f5f5f5;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+.sotcox-card-box {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    align-items: center;
+    position: relative;
+}
+.sotcox-card-box .icon {
+    margin-right: 18px;
+    width: 70px;
+}
+.sotcox-card-box .sotcox-dots {
+    background: #1279bf;
+    border-radius: 40px;
+    position: absolute;/*
+    left: 0;*/
+    bottom: -50px;
+}
+.sotcox-dots {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 25px;
+}
+.sotcox-dots span {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #ffffff;
+    margin: 0px 2.5px;
+    display: inline-block;
+}
+.sotcox-card-box .sotcox-dots span {
+    opacity: 0.3;
+}
+.sotcox-card-wrapper > div:nth-child(2) {
+    border-left: 1px solid #878787;
+    border-right: 1px solid #878787;
+    padding: 0px 60px;
+}
+.content .title {
+    color: black;
+    margin-bottom: 0px;
+    font-weight: 300;
+    font-size: 18px;
+}
+.sotcox-card-box .icon {
+    margin-right: 18px;
+    width: 70px;
+}
+
+.suport_text {
+    font-size: 18px;
+    color: #005da0;
+    font-weight: 600;
+    text-align: center;
+    padding: 40px 0px 20px;
+}
+.sotcox-card-wrapper {
+    background: #f0f8ff;
+    border-radius: 10px;
+    padding: 40px 50px;
+    margin: 0% 5%;
+}
+
+@media (max-width: 475px) {
+    .sotcox-card-wrapper {
+        background: #f5f5f5;
+        border-radius: 10px;
+        padding: 21px 14px;
+        display: block !important;
+    }
+    .sotcox-card-box {
+        display: -ms-flexbox;
+        display: flex
+;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        position: relative;
+        border-bottom: 1px solid #80808047;
+    }
+    .sotcox-card-wrapper > div:nth-child(2) {
+        border-left: 1px solid #ffffff00;
+        border-right: 1px solid #87878700;
+        padding: 0px 0px;
+    }
+    .sotcox-card-box {
+        display: -ms-flexbox;
+        display: flex
+;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: center;
+        position: relative;
+        border-bottom: 1px solid #80808047;
+    }
+    .quick_call {
+        text-align: center;
+        font-size: 19px;
+    }
+    .last_ssc p {
+        font-size: 15px;
+        line-height: 26px;
+        text-align: justify;
+        color: #6d6d6d;
+    }
+    .services-img img {
+        border-radius: 10px;
+        margin-top: 10px;
+    }
+    .servic_what {
+        padding: 18px 0px;
+    }
+    .why_hdd {
+        margin-bottom: 14px;
+        font-size: 20px;
+    }
+}
